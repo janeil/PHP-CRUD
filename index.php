@@ -41,7 +41,7 @@
         
         <tbody>
             <?php
-                include 'retrieve.php';
+                include_once 'retrieve.php';
             ?>
         </tbody>
     </table>
